@@ -16,7 +16,6 @@ Push the box to reach its goal
 
 ![push3d1](https://user-images.githubusercontent.com/37819857/38178607-af6d28f0-3640-11e8-80a1-e1c53168f5cc.PNG)
 
-<br/>
 This is a simple game that I made with UNITY
 
 
