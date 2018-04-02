@@ -17,8 +17,5 @@ This is a simple game that I made with UNITY
 
 ![push3d1](https://user-images.githubusercontent.com/37819857/38178607-af6d28f0-3640-11e8-80a1-e1c53168f5cc.PNG)
 
-
-
-
-
-
+Download (.exe) :<br/>
+https://drive.google.com/open?id=1QCKgflPFwA6HrLG10RFA6HCBFHt2AOra
